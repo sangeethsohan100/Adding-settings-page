@@ -1,0 +1,46 @@
+player 4 initial hand 3 4 1 2 
+
+player 4 draws card number 2 from deck 3
+player 4 discards card number 2 to deck 4
+player 4 current hand is 3 4 1 2 
+
+player 4 draws card number 5 from deck 3
+player 4 discards card number 2 to deck 4
+player 4 current hand is 3 4 1 5 
+
+player 4 draws card number 5 from deck 3
+player 4 discards card number 5 to deck 4
+player 4 current hand is 3 4 1 5 
+
+player 4 draws card number 1 from deck 3
+player 4 discards card number 1 to deck 4
+player 4 current hand is 3 4 5 1 
+
+player 4 draws card number 1 from deck 3
+player 4 discards card number 5 to deck 4
+player 4 current hand is 3 4 1 1 
+
+player 4 draws card number 2 from deck 3
+player 4 discards card number 1 to deck 4
+player 4 current hand is 3 4 1 2 
+
+player 4 draws card number 5 from deck 3
+player 4 discards card number 2 to deck 4
+player 4 current hand is 3 4 1 5 
+
+player 4 draws card number 1 from deck 3
+player 4 discards card number 5 to deck 4
+player 4 current hand is 3 4 1 1 
+
+player 4 draws card number 4 from deck 3
+player 4 discards card number 1 to deck 4
+player 4 current hand is 3 4 1 4 
+
+player 4 draws card number 2 from deck 3
+player 4 discards card number 2 to deck 4
+player 4 current hand is 3 4 1 4 
+
+player 1 has informed player 4 that player 1 has won
+player 4 exits
+
+player 4 final hand 3 4 1 4 

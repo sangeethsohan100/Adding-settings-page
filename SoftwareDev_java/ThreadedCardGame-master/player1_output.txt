@@ -1,0 +1,41 @@
+player 1 initial hand 3 3 1 2 
+
+player 1 draws a 3 from deck 4
+player 1 discards a 3 to deck 1
+player 1 current hand is 3 3 1 2 
+
+player 1 draws a 4 from deck 4
+player 1 discards a 4 to deck 1
+player 1 current hand is 3 3 1 2 
+
+player 1 draws a 1 from deck 4
+player 1 discards a 3 to deck 1
+player 1 current hand is 3 1 2 1 
+
+player 1 draws a 2 from deck 4
+player 1 discards a 3 to deck 1
+player 1 current hand is 1 2 1 2 
+
+player 1 draws a 2 from deck 4
+player 1 discards a 2 to deck 1
+player 1 current hand is 1 2 1 2 
+
+player 1 draws a 1 from deck 4
+player 1 discards a 2 to deck 1
+player 1 current hand is 1 1 2 1 
+
+player 1 draws a 2 from deck 4
+player 1 discards a 2 to deck 1
+player 1 current hand is 1 1 2 1 
+
+player 1 draws a 5 from deck 4
+player 1 discards a 5 to deck 1
+player 1 current hand is 1 1 2 1 
+
+player 1 draws a 3 from deck 4
+player 1 discards a 3 to deck 1
+player 1 current hand is 1 1 2 1 
+
+player 2 has informed player 1 that player 2 has won
+player 1 exits
+player 1 final hand 1 1 2 1 

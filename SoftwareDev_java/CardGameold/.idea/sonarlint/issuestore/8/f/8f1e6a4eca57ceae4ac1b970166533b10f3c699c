@@ -1,0 +1,12 @@
+
+W	java:S899C"BDo something with the "boolean" value returned by "createNewFile".(ÎÕş
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(©ÿÈ²
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(é÷ûïùÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢ß¹‘
+†
+java:S1319%"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ŠÕõÉ
+8
+java:S1643:"Use a StringBuilder instead.(‘Êö$8Ö™Ï¬Ê0
+^
+java:S2095J"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ÑÚÃÊ
